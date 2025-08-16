@@ -1,4 +1,4 @@
-# Role-Based Task Management API 🚀
+# Role-Based Task Management API (Backend Only)🚀
 
 A **backend-only RESTful API** for managing tasks with role-based access control.  
 Built with **Node.js** and **Supabase (PostgreSQL)**, this project allows **Users, Managers, and Admins** to register, authenticate, and manage tasks according to their roles.  
